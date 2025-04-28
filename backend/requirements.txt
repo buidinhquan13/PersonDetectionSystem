@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+sqlalchemy
+psycopg2-binary
+python-multipart
+opencv-python-headless
+pydantic
+python-dotenv
+alembic
+numpy
+torch
+torchvision
+ultralytics
+aiofiles
